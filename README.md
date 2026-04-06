@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+- Flood likelihood risks screening for Pune and Bengaluru
+- Credit Enhancement for Climate-Positive Urban Infrastructure Projects for Indian cities
+- Implementing the Clean Energy Transition in Vietnam
+- National and Subnational Disaster Risk and Resilience Assessment and Roadmap for Telecommunication Sector, India
+- Developing Crop and Soil Digital Algorithms for Crop Growth Monitoring, Crop Yield and Soil Quality at Farm Level Using Remote Sensing, GIS and Machine Learning Techniques
+- Geospatial-based Cadastral Level Crop Mapping and Integration of Records with Food Portal of Punjab
+- Modelling Interrelationships among Air Quality, Crop Residue Burning, Soil-Moisture and Crop Yield using Geospatial Technology  
